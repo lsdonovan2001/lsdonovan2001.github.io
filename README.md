@@ -1,4 +1,4 @@
-theme: jekyll-theme-Modernist
+theme: jekyll-theme-modernist
 
 <html>
 
