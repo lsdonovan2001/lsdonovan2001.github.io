@@ -1,4 +1,5 @@
 .layout--home {
+  margin-left: map-get($spacers, 4);
   .pagination {
     margin: map-get($spacers, 4) 0;
   }
